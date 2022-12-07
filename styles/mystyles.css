@@ -1,0 +1,36 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: burlywood;
+}
+
+img{
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text{
+    text-align: center;
+}
+
+.stylechoice1{
+    text-decoration: underline;
+}
+
+.stylechoice2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.stylechoice3{
+    font-weight: 100;
+    text-align: right;
+}
+
+.stylechoice4 {
+    text-transform: uppercase;
+    font-weight: 50;
+}
